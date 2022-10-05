@@ -2,7 +2,7 @@
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 <br>
-<p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="My Project GIF" width="600" height="400">
+<p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="My Project GIF" width="500" height="400">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width="300" height="400"></p>
 
 
