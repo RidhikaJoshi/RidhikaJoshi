@@ -2,7 +2,7 @@
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 <br>
-<p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="My Project GIF" width="600" height="400">
+<p><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="My Project GIF" width="400" height="400">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width="400" height="400"></p>
 
 
@@ -33,6 +33,7 @@
 
 ![Ridhika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RidhikaJoshi&theme=tokyonight)
 <br><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RidhikaJoshi&count_private=true&show_icons=true&theme=tokyonight"></p>
 
 <br>
