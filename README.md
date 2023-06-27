@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width="300" height="400"></p>
 
 
-<p><b>I am RIDHIKA JOSHI, a Sophomore pursuing Bachelors in Computer science and engineering (CSE) from Academy of Technology.An optimistic and meticulous person, likes to explore various fields which capture my interest. Always trying to upgrade my existing skills. I am a quick learner who loves to connect with people, learn new things, take up interesting challenges and solve problems inorder to make life easier and make this world a better place to live!. </p>
+<p><b>I am RIDHIKA JOSHI, a pre-final year student, pursuing Bachelors in Computer science and engineering (CSE) from Academy of Technology.An optimistic and meticulous person, likes to explore various fields which capture my interest. Always trying to upgrade my existing skills. I am a quick learner who loves to connect with people, learn new things, take up interesting challenges and solve problems inorder to make life easier and make this world a better place to live!. </p>
 </b>
 
 
