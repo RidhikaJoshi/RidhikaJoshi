@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhikajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ridhikajoshi" /> </p>
 
-📫 How to reach me ridhikasmrh@gmail.com
+- 🌱 I’m currently learning **Web Develpement**
+
+- 📝 I regularly write articles on [https://medium.com/@ridhikasmrh](https://medium.com/@ridhikasmrh)
+
+- 📫 How to reach me ridhikasmrh@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhika-joshi-069164221/) 
