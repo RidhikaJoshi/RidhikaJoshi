@@ -23,6 +23,7 @@
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
 | Personal Portfolio Website | [Code](https://github.com/RidhikaJoshi/Portfolio) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshiportfolio.netlify.app/) |
+| QuickExchange | [Code](https://github.com/RidhikaJoshi/QuickExchange) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-quickexchange.netlify.app/) |
 | Anagram-Quest-Game | [Code](https://github.com/RidhikaJoshi/Anagram_Quest) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://anagram-quest.netlify.app/) |
 | Calculator | [Code](https://github.com/RidhikaJoshi/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-calculator.netlify.app/) |
 | E-Bakery-Website  | [Code](https://github.com/RidhikaJoshi/E-Bakery-Website) | ```HTML``` ```CSS``` ```Bootstrap```| ```Frontend```| [Website](https://e-bakerywebsite.netlify.app/) |
