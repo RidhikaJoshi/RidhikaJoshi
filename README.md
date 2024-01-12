@@ -33,7 +33,7 @@
 <h2> 📊 GitHub Stats: </h2>
 <div align = "center">
 
-| ![Ridhika Github Stats](https://github-readme-stats.vercel.app/api?username=RidhikaJoshi&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![harshit Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-3905&theme=chartreuse-dark&hide_border=false)<br/>
+| ![Ridhika Github Stats](https://github-readme-stats.vercel.app/api?username=RidhikaJoshi&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![Ridhika Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-3905&theme=chartreuse-dark&hide_border=false)<br/>
 |-----------------------------------------------------------------|-----------------------------------------------------------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidhikaJoshi&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 </p>
