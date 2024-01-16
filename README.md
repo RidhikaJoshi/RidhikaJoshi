@@ -9,7 +9,6 @@
 
 - 📫 How to reach me ridhikasmrh@gmail.com
   
-- Microsoft Learn Student Ambassador - https://learn.microsoft.com/en-us/users/RidhikaJoshi-6963
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhika-joshi-069164221/) 
