@@ -21,7 +21,7 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
-| Personal Portfolio Website | [Code]([https://github.com/RidhikaJoshi/Password_Generator](https://github.com/RidhikaJoshi/New_Portfolio)) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi.netlify.app/) |
+| Personal Portfolio Website | [Code]([https://github.com/RidhikaJoshi/New_Portfolio]) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi.netlify.app/) |
 | Password_Generator | [Code](https://github.com/RidhikaJoshi/Password_Generator) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-password-generator.netlify.app/) |
 | Background_Changer | [Code](https://github.com/RidhikaJoshi/Background_Changer) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-background-changer.netlify.app/) |
 | Old Portfolio Website | [Code](https://github.com/RidhikaJoshi/Portfolio) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshiportfolio.netlify.app/) |
