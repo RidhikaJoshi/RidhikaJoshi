@@ -27,12 +27,12 @@
 | Personal Portfolio Website | [Code](https://github.com/RidhikaJoshi/New_Portfolio) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi.netlify.app/) |
 | Password_Generator | [Code](https://github.com/RidhikaJoshi/Password_Generator) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-password-generator.netlify.app/) |
 | Background_Changer | [Code](https://github.com/RidhikaJoshi/Background_Changer) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-background-changer.netlify.app/) |
-| Old Portfolio Website | [Code](https://github.com/RidhikaJoshi/Portfolio) | ```HTML``` ```CSS``` ```Bootstrap```| ```Frontend```|  [Website](https://ridhikajoshiportfolio.netlify.app/) |
 | QuickExchange | [Code](https://github.com/RidhikaJoshi/QuickExchange) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-quickexchange.netlify.app/) |
 | Anagram-Quest-Game | [Code](https://github.com/RidhikaJoshi/Anagram_Quest) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://anagram-quest.netlify.app/) |
 | Calculator | [Code](https://github.com/RidhikaJoshi/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-calculator.netlify.app/) |
 | E-Bakery-Website  | [Code](https://github.com/RidhikaJoshi/E-Bakery-Website) | ```HTML``` ```CSS``` ```Bootstrap```| ```Frontend```| [Website](https://e-bakerywebsite.netlify.app/) |
 | InspiroMatic | [Code](https://github.com/RidhikaJoshi/InspiroMatic) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-inspiromatic.netlify.app/) |
+| Old Portfolio Website | [Code](https://github.com/RidhikaJoshi/Portfolio) | ```HTML``` ```CSS``` ```Bootstrap```| ```Frontend```|  [Website](https://ridhikajoshiportfolio.netlify.app/) |
 </div>
 
 <h2> 📊 GitHub Stats: </h2>
