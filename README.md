@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhikajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ridhikajoshi" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 📝 I regularly write articles on [https://medium.com/@ridhikasmrh](https://medium.com/@ridhikasmrh)
 
