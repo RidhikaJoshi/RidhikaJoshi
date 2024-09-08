@@ -25,7 +25,7 @@
 | VideoTweets | [Code](https://github.com/RidhikaJoshi/VideoTweets) | ```NodeJs``` ```ExpressJs``` ```MongoDb```| ```Backend```|  [Documentation](https://documenter.getpostman.com/view/18992770/2sA2xpR8nu) |
 | TouristNest | [Code](https://github.com/RidhikaJoshi/TouristNest) | ```NodeJs``` ```ExpressJs``` ```MongoDb```  ```React``` ```TailwindCSS``` ```ShadCN UI``` ```Stripe```| ```MERN Stack``` |  [Website](https://touristnest.onrender.com/) |
 | MusicAcademy | [Code](https://github.com/RidhikaJoshi/music) | ```NextJs``` ```Aceternity``` ```TypeScript``` ```TailwindCSS```| ```Frontend```|  [Website](https://music-xi.vercel.app/) |
-| BlogSphere | [Code](https://github.com/RidhikaJoshi/Blog) | ```Appwrite``` ```React``` ```TailwindCSS```| ```Frontend```|  [Website](https://blogsphere-swf7.onrender.com/) |
+| BlogSphere | [Code](https://github.com/RidhikaJoshi/Blog) | ```Appwrite``` ```React``` ```TailwindCSS```| ```Frontend```|  [Website]([https://blogsphere-swf7.onrender.com/](https://d2dn3c87zlk96y.cloudfront.net/) |
 | Personal Portfolio Website | [Code](https://github.com/RidhikaJoshi/New_Portfolio) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi.netlify.app/) |
 | Password_Generator | [Code](https://github.com/RidhikaJoshi/Password_Generator) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-password-generator.netlify.app/) |
 | Background_Changer | [Code](https://github.com/RidhikaJoshi/Background_Changer) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi-background-changer.netlify.app/) |
