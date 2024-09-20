@@ -23,6 +23,7 @@
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
 | VideoTweets | [Code](https://github.com/RidhikaJoshi/VideoTweets) | ```NodeJs``` ```ExpressJs``` ```MongoDb```| ```Backend```|  [Documentation](https://documenter.getpostman.com/view/18992770/2sA2xpR8nu) |
+| Libris | [Code](https://github.com/RidhikaJoshi/Libris) | ```HonoJs``` ```PostgreSQL``` ```Prisma``` ```TypeScript``` ```Cloudflare``` ```ReactJs```  ```TailwindCSS``` ```ShadCN UI``` | ```Full Stack```|  in progress |
 | TouristNest | [Code](https://github.com/RidhikaJoshi/TouristNest) | ```NodeJs``` ```ExpressJs``` ```MongoDb```  ```React``` ```TailwindCSS``` ```ShadCN UI``` ```Stripe```| ```MERN Stack``` |  [Website](https://touristnest.onrender.com/) |
 | MusicAcademy | [Code](https://github.com/RidhikaJoshi/music) | ```NextJs``` ```Aceternity``` ```TypeScript``` ```TailwindCSS```| ```Frontend```|  [Website](https://music-xi.vercel.app/) |
 | BlogSphere | [Code](https://github.com/RidhikaJoshi/Blog) | ```Appwrite``` ```React``` ```TailwindCSS```| ```Frontend```|  [Website](https://d2dn3c87zlk96y.cloudfront.net/) |
