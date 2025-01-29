@@ -23,9 +23,10 @@
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
 | PortFolio | [Code](https://github.com/RidhikaJoshi/Portfolio-Latest) | ```NextJs``` ```TypeScript``` ```TailwindCSS``` ```ShadCN UI``` | ```Frontend```| [Website](https://www.ridhikajoshi.me/) |
-| Libris | [Code](https://github.com/RidhikaJoshi/Libris) | ```HonoJs``` ```PostgreSQL``` ```Prisma``` ```TypeScript``` ```Cloudflare``` ```ReactJs```  ```TailwindCSS``` ```ShadCN UI``` | ```Full Stack```|   [User](https://libris.pages.dev/) \\ [Admin](https://libris-admin.pages.dev/) |
-| VideoTweets | [Code](https://github.com/RidhikaJoshi/VideoTweets) | ```NodeJs``` ```ExpressJs``` ```MongoDb```| ```Backend```|  [Documentation](https://documenter.getpostman.com/view/18992770/2sA2xpR8nu) |
+| VideoTweets | [Code](https://github.com/RidhikaJoshi/VideoTweets) | ```NodeJs``` ```ExpressJs``` ```MongoDb``` ```Docker```| ```Backend```|  [Documentation](https://documenter.getpostman.com/view/18992770/2sA2xpR8nu) |
 | BlogSphere | [Code](https://github.com/RidhikaJoshi/Blog) | ```Appwrite``` ```React``` ```TailwindCSS``` ```AWS S3``` ```Cloudfront```| ```Frontend```|  [Website](https://d2dn3c87zlk96y.cloudfront.net/) |
+| CollabSphere | [Code](https://github.com/RidhikaJoshi/CollabSphere) | ```NextJs``` ```TypeScript``` ```TailwindCSS``` ```Node.js``` ```Express.js``` ```PostgreSQL``` ```WebSockets``` ```AWS EC2``` ```Nginx``` | ```Full Stack```|  [Website](https://collabsphere-frontend.vercel.app/) |
+| Libris | [Code](https://github.com/RidhikaJoshi/Libris) | ```HonoJs``` ```PostgreSQL``` ```Prisma``` ```TypeScript``` ```Cloudflare``` ```ReactJs```  ```TailwindCSS``` ```ShadCN UI``` | ```Full Stack```|   [User](https://libris.pages.dev/) \\ [Admin](https://libris-admin.pages.dev/) |
 | TouristNest | [Code](https://github.com/RidhikaJoshi/TouristNest) | ```NodeJs``` ```ExpressJs``` ```MongoDb```  ```React``` ```TailwindCSS``` ```ShadCN UI``` ```Stripe```| ```MERN Stack``` |  [Website](https://touristnest.onrender.com/) |
 | MusicAcademy | [Code](https://github.com/RidhikaJoshi/music) | ```NextJs``` ```Aceternity``` ```TypeScript``` ```TailwindCSS```| ```Frontend```|  [Website](https://music-xi.vercel.app/) |
 | Personal Portfolio Website | [Code](https://github.com/RidhikaJoshi/New_Portfolio) | ```React``` ```TailwindCSS``` ```Javascript```| ```Frontend```|  [Website](https://ridhikajoshi.netlify.app/) |
