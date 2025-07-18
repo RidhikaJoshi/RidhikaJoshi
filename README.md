@@ -1,12 +1,16 @@
 <h1 align="center">< Hello Coders🚀, I'm Ridhika Joshi <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h1>
 
-<h4 align="center">"I am Ridhika Joshi, an ambitious and proactive junior pursuing a Bachelors in Computer Science and Engineering (CSE). Rooted in optimism and a keen eye for detail, I derive immense satisfaction from delving into various fields that captivate my curiosity. Fueled by an unwavering commitment to personal growth, I am constantly enhancing my skill set. With a natural aptitude for quick learning, I relish in forging connections, immersing myself in novel experiences, and tackling challenges with unwavering zeal. My ultimate goal is to craft innovative solutions that enhance lives and contribute to the betterment of our world."</h4>
+<span align="left">I'm a passionate and detail-oriented Software Developer with a strong foundation in full-stack web development. I hold a B.Tech degree in Computer Science and Engineering, and I specialize in building scalable, performant, and user-centric applications using modern technologies. 
+
+My tech stack includes React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, Docker, and AWS. I’ve built and deployed several real-world projects—from a video-sharing platform and blogging website to a real-time collaboration tool—focusing on clean architecture, efficient state management, and smooth user experience.
+
+Beyond development, I actively engage in competitive programming and problem-solving, which helps me write optimized and maintainable code. I'm also passionate about learning new technologies, contributing to open-source, and continuously improving my craft.</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhikajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ridhikajoshi" /> </p>
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📝 I regularly write articles on [https://medium.com/@ridhikasmrh](https://medium.com/@ridhikasmrh)
+- 📝 I write articles on [https://medium.com/@ridhikasmrh](https://medium.com/@ridhikasmrh)
 
 - 📫 How to reach me ridhikasmrh@gmail.com
   
