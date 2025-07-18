@@ -8,8 +8,6 @@ Beyond development, I actively engage in competitive programming and problem-sol
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhikajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="ridhikajoshi" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 📝 I write articles on [https://medium.com/@ridhikasmrh](https://medium.com/@ridhikasmrh)
 
 - 📫 How to reach me ridhikasmrh@gmail.com
