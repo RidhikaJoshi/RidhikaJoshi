@@ -1,5 +1,9 @@
 <h1 align="center">< Hello Coders🚀, I'm Ridhika Joshi <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h1>
 
+
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/3d9d2f74-3a41-4569-a04a-f4c275f3549d" />
+
+
 <span align="left">I'm a passionate and detail-oriented Software Developer with a strong foundation in full-stack web development. I hold a B.Tech degree in Computer Science and Engineering, and I specialize in building scalable, performant, and user-centric applications using modern technologies. 
 
 My tech stack includes React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, Docker, and AWS. I’ve built and deployed several real-world projects—from a video-sharing platform and blogging website to a real-time collaboration tool—focusing on clean architecture, efficient state management, and smooth user experience.
