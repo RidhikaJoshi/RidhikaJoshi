@@ -36,7 +36,7 @@ Beyond development, I actively engage in competitive programming and problem-sol
 </div>
 
 
-<h2> Articles </h2>
+<h2> 🚀 Articles </h2>
 <div align = "center">
 
 | <h3>Name</h3> | <h3>Links</h3> 
